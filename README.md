@@ -7,3 +7,10 @@ in app icons:
 250x250
 500x500
 750x750
+
+# 华康娃娃字体
+http://www.diyiziti.com/builder/108
+
+http://www.diyiziti.com/
+
+
